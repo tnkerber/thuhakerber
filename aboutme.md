@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Experienced software engineer with a passion for Data Science and Machine Learning
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Thuha Kerber. I'm currently a Principal Software Engineer at Parsons. I love technology and constantly look for new things to learn. Machine Learning/AI has always been a fascinating subject to me. I'm currently going through an intensive and very thorough Data Science Immersive program at Divergence Academy and this website was created to present my capstone project.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My Work History
 
-What else do you need?
+For full details on my credentials and professional experience, see [my LinkedIn profile](https://www.linkedin.com/in/thuhanguyenkerber).
 
-### my history
+### Contact Information
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Feel free to connect with me via LinkedIn or email me at [thuha.mk@gmail.com](mailto:thuha.mk@gmail.com)
