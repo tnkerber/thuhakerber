@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Thuha Kerber - Data Science Enthusiast
+title: tnkerber
 
 # Short description of your site
-description: A virtual collection of my Data Science learning and experiments
+description: tnkerber's github
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
